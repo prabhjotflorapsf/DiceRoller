@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="dice_number_1">Dice Number 1</string>
+    <string name="roll">Roll The Dice</string>
+    <string name="final_project_of_mobile_development_tools">Final Project of Mobile Development Tools</string>
+    <string name="todo">TODO</string>
+</resources>

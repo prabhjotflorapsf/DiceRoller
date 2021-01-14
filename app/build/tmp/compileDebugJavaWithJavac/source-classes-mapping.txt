@@ -1,0 +1,5 @@
+com/example/adity/diceroller/BuildConfig.java
+ com.example.adity.diceroller.BuildConfig
+com/example/adity/diceroller/MainActivity.java
+ com.example.adity.diceroller.MainActivity
+ com.example.adity.diceroller.MainActivity$1
